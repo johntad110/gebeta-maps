@@ -30,7 +30,7 @@
   ],
   "author": "John Tad",
   "license": "MIT",
-  "description": "A package to interact with GebetaMaps API.",
+  "description": "This is a TypeScript API wrapper for the GebetaMaps API. It provides an abstraction layer over raw HTTP requests, with built-in error handling and convenience methods for interacting with the GebetaMaps services.",
   "devDependencies": {
     "tsup": "^8.3.5",
     "typescript": "^5.6.3"
